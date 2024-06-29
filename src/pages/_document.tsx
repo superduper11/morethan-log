@@ -6,6 +6,8 @@ class MyDocument extends Document {
     return (
       <Html lang={CONFIG.lang}>
         <Head>
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9579104518546678"
+           crossorigin="anonymous"></script>
           <link rel="icon" href="/favicon.ico" />
           <link
             rel="apple-touch-icon"
